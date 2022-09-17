@@ -1,0 +1,11 @@
+.mytable{
+    height: 50px;
+    border-collapse: collapse;
+  width: 2300px;
+  background-color: rgb(255, 251, 0);
+    
+}
+td,tr{
+    height: 5px;
+    border: 1px solid black;
+}
